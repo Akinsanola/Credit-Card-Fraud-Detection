@@ -39,7 +39,7 @@ The comprehensive cross-validation results are summarized below, highlighting mo
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Random Forest** | **0.954** | **0.887** | 0.999 | 0.94 | 0.93 | 0.93 |
 | **XGBoost** | 0.941 | 0.855 | 0.994 | 0.91 | 0.92 | 0.932 |
-| **[Third Model]** | [Score] | [Score] | [Score] | [Score] | [Score] | [Score] |
+
 
 ---
 
